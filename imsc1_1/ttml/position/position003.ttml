@@ -13,7 +13,7 @@
       <region style="s1" xml:id="r3" tts:extent="60rw 20rh" tts:position="right" />
       <region style="s1" xml:id="r4" tts:extent="60rw 20rh" tts:position="top" />
       <region style="s1" xml:id="r5" tts:extent="60rw 20rh" tts:position="bottom" />
-      <region style="s1" xml:id="r6" tts:extent="60rw 20rh" tts:position="25rh" />
+      <region style="s1" xml:id="r6" tts:extent="60rw 20rh" tts:position="25rw" />
 
       <!-- two components -->
 
@@ -29,7 +29,7 @@
       <region style="s1" xml:id="r16" tts:extent="60rw 20rh" tts:position="left center" />
       <region style="s1" xml:id="r17" tts:extent="60rw 20rh" tts:position="left top" />
       <region style="s1" xml:id="r18" tts:extent="60rw 20rh" tts:position="left bottom" />
-      <region style="s1" xml:id="r19" tts:extent="60rw 20rh" tts:position="left 25rw" />
+      <region style="s1" xml:id="r19" tts:extent="60rw 20rh" tts:position="left 25rh" />
       <region style="s1" xml:id="r20" tts:extent="60rw 20rh" tts:position="right center" />
       <region style="s1" xml:id="r21" tts:extent="60rw 20rh" tts:position="right top" />
       <region style="s1" xml:id="r22" tts:extent="60rw 20rh" tts:position="right bottom" />
@@ -90,7 +90,7 @@
       <p region="r3" dur="1s">right</p>
       <p region="r4" dur="1s">top</p>
       <p region="r5" dur="1s">bottom</p>
-      <p region="r6" dur="1s">25rh</p>
+      <p region="r6" dur="1s">25rw</p>
 
       <!-- two components -->
 
@@ -106,7 +106,7 @@
       <p region="r16" dur="1s">left center</p>
       <p region="r17" dur="1s">left top</p>
       <p region="r18" dur="1s">left bottom</p>
-      <p region="r19" dur="1s">left 25rw</p>
+      <p region="r19" dur="1s">left 25rh</p>
       <p region="r20" dur="1s">right center</p>
       <p region="r21" dur="1s">right top</p>
       <p region="r22" dur="1s">right bottom</p>
