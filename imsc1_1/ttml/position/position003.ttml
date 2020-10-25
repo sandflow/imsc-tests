@@ -33,7 +33,7 @@
       <region style="s1" xml:id="r20" tts:extent="60rw 20rh" tts:position="right center" />
       <region style="s1" xml:id="r21" tts:extent="60rw 20rh" tts:position="right top" />
       <region style="s1" xml:id="r22" tts:extent="60rw 20rh" tts:position="right bottom" />
-      <region style="s1" xml:id="r23" tts:extent="60rw 20rh" tts:position="right 25rw" />
+      <region style="s1" xml:id="r23" tts:extent="60rw 20rh" tts:position="right 25rh" />
       <region style="s1" xml:id="r24" tts:extent="60rw 20rh" tts:position="top center" />
       <region style="s1" xml:id="r25" tts:extent="60rw 20rh" tts:position="top left" />
       <region style="s1" xml:id="r26" tts:extent="60rw 20rh" tts:position="top right" />
